@@ -1,7 +1,6 @@
 #!/bin/bash
 #
-#	Install sprict for chaser playBGM 
-#	未完成
+#	Install sprict for chaser playBGM
 #
 
 
