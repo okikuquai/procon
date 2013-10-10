@@ -29,6 +29,10 @@ echo "    quit" >> start.swatchrc
 #gitからソースをダウンロード
 cd ~/opt
 git clone http://github.com/kikku340/procon.git
+
+
+
+#ソースファイルをインストールフォルダに移動
 cd ~/opt/procon
 mv play.sh ~/opt
 mv Connect.sh ~/opt
