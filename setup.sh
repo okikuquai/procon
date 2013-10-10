@@ -28,8 +28,8 @@ echo "    quit" >> start.swatchrc
 
 #gitからソースをダウンロード
 cd ~/opt
-git clone http://git1.expand.co.jp/git/procon-u16.sv1
-cd ~/opt/procon-u16.sv1
+git clone http://github.com/kikku340/procon.git
+cd ~/opt/procon
 mv play.sh ~/opt
 mv Connect.sh ~/opt
 mv ChackKeyEvent.sh ~/opt
