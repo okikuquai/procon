@@ -1,0 +1,4 @@
+RATE=10
+PATH=test/BugFixedCHaser2012Server
+FANFARE=st010a.mp3
+BGMNUM=8
